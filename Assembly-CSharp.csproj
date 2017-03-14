@@ -46,9 +46,35 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\AllSceneChanges.cs" />
+     <Compile Include="Assets\Scripts\CharacterCreate\AumakuaController.cs" />
+     <Compile Include="Assets\Scripts\CharacterCreate\LaHanauController.cs" />
+     <Compile Include="Assets\Scripts\CharacterCreate\NameController.cs" />
+     <Compile Include="Assets\Scripts\KuiKaloActivity\KuiKaloController.cs" />
+     <Compile Include="Assets\Scripts\KukeActivity\KukeController.cs" />
+     <Compile Include="Assets\Scripts\Lo&apos;iActivity\animalController.cs" />
+     <Compile Include="Assets\Scripts\Lo&apos;iActivity\kaloController.cs" />
+     <Compile Include="Assets\Scripts\Lo&apos;iActivity\spawnController.cs" />
+     <Compile Include="Assets\Scripts\Masters\ClearPlayerprefs.cs" />
+     <Compile Include="Assets\Scripts\Masters\GameControl.cs" />
+     <Compile Include="Assets\Scripts\Masters\MainMenuController.cs" />
+     <Compile Include="Assets\Scripts\Masters\OpeningInstruction.cs" />
+     <Compile Include="Assets\Scripts\Masters\PlayerInfoController.cs" />
+     <Compile Include="Assets\Scripts\Masters\drag.cs" />
      <Compile Include="Assets\Scripts\MeleActivity\ButtonController.cs" />
      <Compile Include="Assets\Scripts\MeleActivity\MeleScript.cs" />
+     <Compile Include="Assets\Scripts\Navigation\AllSceneChanges.cs" />
+     <Compile Include="Assets\Scripts\Navigation\MainMenuButtons.cs" />
+     <Compile Include="Assets\Scripts\Navigation\MeaAiMenu.cs" />
+     <Compile Include="Assets\Scripts\Navigation\gsHighlight.cs" />
+     <Compile Include="Assets\Scripts\PahuActivity\CloudController.cs" />
+     <Compile Include="Assets\Scripts\PahuActivity\HitBoxManager.cs" />
+     <Compile Include="Assets\Scripts\PahuActivity\MakaniBlower.cs" />
+     <Compile Include="Assets\Scripts\PahuActivity\PahuManager.cs" />
+     <Compile Include="Assets\Scripts\PahuActivity\SwipeBehaviour.cs" />
+     <Compile Include="Assets\Scripts\PahuActivity\ambientClouds.cs" />
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
@@ -63,6 +89,9 @@
  </Reference>
  <Reference Include="UnityEngine.HoloLens">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Purchasing">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.VR">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>

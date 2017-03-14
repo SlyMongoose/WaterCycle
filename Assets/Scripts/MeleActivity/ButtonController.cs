@@ -5,16 +5,15 @@ using UnityEngine;
 public class ButtonController : MonoBehaviour {
 
 	private SpriteRenderer theSprite;
+
 	public int thisButtonNumber;
-
-	private MeleScript theGM;
-
+	private MeleScript gm;
 	private AudioSource theSound;
 
 	// Use this for initialization
 	void Start () {
 		theSprite = GetComponent<SpriteRenderer>();
-		theGM = FindObjectOfType<MeleScript>();
+		gm = FindObjectOfType<MeleScript>();
 		theSound = GetComponent<AudioSource>();
 	}
 	
@@ -30,7 +29,7 @@ public class ButtonController : MonoBehaviour {
 
 	void OnMouseUp() {
 		theSprite.color = new Color(theSprite.color.r - 125, theSprite.color.g - 125, theSprite.color.b - 125);
-		theGM.ColourPressed(thisButtonNumber);
+		gm.ColourPressed(thisButtonNumber);
 		theSound.Stop();
 	}
 }

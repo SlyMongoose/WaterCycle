@@ -1,10 +1,16 @@
-﻿<Properties StartupItem="Assembly-CSharp.csproj">
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MeleActivity\MeleScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Masters\drag.cs">
     <Files>
-      <File FileName="Assets\Scripts\MeleActivity\ButtonController.cs" Line="37" Column="1" />
-      <File FileName="Assets\Scripts\MeleActivity\MeleScript.cs" Line="112" Column="21" />
-      <File FileName="Assets\Scripts\AllSceneChanges.cs" Line="16" Column="1" />
+      <File FileName="Assets\Scripts\PahuActivity\MakaniBlower.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PahuActivity\CloudController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Masters\PlayerInfoController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Navigation\AllSceneChanges.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Lo'iActivity\kaloController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\KukeActivity\KukeController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\KuiKaloActivity\KuiKaloController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Navigation\MeaAiMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Masters\drag.cs" Line="7" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
