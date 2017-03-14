@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: 32f1b2287dd35e748b7831d93adc7e96
+timeCreated: 1486360975
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: raincloudsprite_0
+    21300002: raincloudsprite_1
+    21300004: raincloudsprite_2
+    21300006: raincloudsprite_3
+    21300008: raincloudsprite_4
+    21300010: raincloudsprite_5
+    21300012: raincloudsprite_6
+    21300014: raincloudsprite_7
+    21300016: raincloudsprite_8
+    21300018: raincloudsprite_9
+    21300020: raincloudsprite_10
+    21300022: raincloudsprite_11
+    21300024: raincloudsprite_12
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: raincloudsprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1900
+        width: 316
+        height: 292
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raincloudsprite_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1897
+        width: 316
+        height: 295
+      alignment: 9
+      pivot: {x: 0.5230992, y: 0.5082482}
+      border: {x: 0, y: 2, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raincloudsprite_2
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1869
+        width: 317
+        height: 323
+      alignment: 9
+      pivot: {x: 0.50767523, y: 0.5301321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raincloudsprite_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1576
+        width: 317
+        height: 325
+      alignment: 9
+      pivot: {x: 0.515351, y: 0.5374328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raincloudsprite_4
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1539
+        width: 315
+        height: 359
+      alignment: 9
+      pivot: {x: 0.5231726, y: 0.5813301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raincloudsprite_5
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1498
+        width: 319
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.59837455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raincloudsprite_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1186
+        width: 314
+        height: 389
+      alignment: 9
+      pivot: {x: 0.5077487, y: 0.6125868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raincloudsprite_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1134
+        width: 318
+        height: 406
+      alignment: 9
+      pivot: {x: 0.51530266, y: 0.6258515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raincloudsprite_8
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1077
+        width: 319
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5152548, y: 0.6502642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raincloudsprite_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 317
+        height: 712
+      alignment: 9
+      pivot: {x: 0.515351, y: 0.78705376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raincloudsprite_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 712
+        width: 317
+        height: 475
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.6741604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raincloudsprite_11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 616
+        width: 317
+        height: 518
+      alignment: 9
+      pivot: {x: 0.515351, y: 0.71137184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: raincloudsprite_12
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 522
+        width: 316
+        height: 556
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.73193425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
